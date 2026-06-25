@@ -1,0 +1,67 @@
+#bun1 {
+background-color: #bd7d08;
+width: 300px;
+border: 1px solid #8b6e0d;
+border-radius: 35px 35px 10px 10px;
+height: 50px;
+margin: 0px;
+}
+
+#pickle {
+background-color: #0a6107;
+width: 300px;
+border: 1px solid #0a6107;
+border-radius: 35px 35px 35px 35px;
+border-bottom: 10px solid #074105;
+height: 10px;
+margin: 0px;
+
+}
+#tomato {
+background-color: #e41008;
+width: 300px;
+border: 1px solid #e41008;
+border-radius: 15px 15px 15px 15px;
+border-bottom: 10px solid #831405;
+height: 30px;
+margin: 0px;
+
+}
+#onion {
+background-color: #d40cca;
+width: 300px;
+border: 1px solid #d40cca;
+border-radius: 15px 15px 15px 15px;
+border-bottom: 5px solid #61084b;
+height: 15px;
+margin: 0px;
+
+}
+#cheese {
+background-color: #dada1e;
+width: 300px;
+border: 1px solid #dada1e;
+border-radius: 15px 15px 15px 15px;
+border-bottom: 3px solid #afaf1c;
+height: 8px;
+margin: 0px;
+
+}
+#meat {
+background-color: #5c2d0b;
+width: 300px;
+border: 1px solid #5c2d0b;
+border-radius: 10px 10px 10px 10px;
+border-bottom: 20px solid #3b1d07;
+height: 40px;
+margin: 0px;
+
+}
+#bun2 {
+background-color: #bd7d08;
+width: 300px;
+border: 1px solid #8b6e0d;
+border-radius: 10px 10px 40px 40px;
+height: 25px;
+margin: 0px;
+}

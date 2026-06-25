@@ -1,0 +1,5 @@
+img:hover{
+
+ transform: rotate(5400deg);
+ transition: transform 5.0s;
+}
